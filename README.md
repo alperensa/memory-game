@@ -1,8 +1,8 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Hello :)
+This is a memory game.
+Rules are:
+Click start to start the game.
+Keep every word you see in your mind.
+Click seen if you have already seen or click new if you have never seen the word you see on the screen.
+Every wrong guess takes 1 life and you have 3 lives in total.
+Good Luck.
